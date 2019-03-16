@@ -1,4 +1,4 @@
-baseurl = "http://adiiram_journal.com"
+baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Adii's Journal"

@@ -1,7 +1,7 @@
 ---
 title: "AWS LifeCycle Management - CloudWatch Logs Retention"
 date: 2019-02-16T14:47:49+05:30
-draft: true
+draft: false
 toc: true
 images:
 tags: 

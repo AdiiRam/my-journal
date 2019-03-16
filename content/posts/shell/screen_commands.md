@@ -1,7 +1,7 @@
 ---
 title: "Commonly Used Screen Commands"
 date: 2019-02-09T18:54:11+05:30
-draft: true
+draft: false
 toc: false
 images:
 tags: 
