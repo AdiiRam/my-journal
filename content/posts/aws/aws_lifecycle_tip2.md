@@ -1,7 +1,7 @@
 ---
 title: "AWS LifeCycle Management - Managing Docker Images"
 date: 2019-03-17
-draft: true
+draft: false
 toc: true
 images:
 tags: 
